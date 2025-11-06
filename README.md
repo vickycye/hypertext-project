@@ -1,4 +1,5 @@
 # hypertext-project for DXARTS 200 Assignment 2
 
-Inspiration:
+Inspiration: 
 
+This project explores identity and possible futures through an interactive website where every choice branches into different paths, much like how a single decision in life can lead to completely different outcomes. Inspired by the idea that we're all constantly "debugging" ourselves (fixing, adjusting, learning from mistakes), I've created a collection of interconnected pages that represent different versions of who I might become, the fears that hold me back, the conflicts between competing desires, and the core values that remain constant no matter which path I choose. Each page contains reflections, images, and hidden text that appears when you hover over certain phrases, revealing deeper thoughts and vulnerabilities. Rather than presenting a linear story, the site allows you to navigate through my past, present, and imagined futures in whatever order feels natural, discovering how different life choices connect and conflict with each other. It's part digital journal, part choose-your-own-adventure story, and part philosophical exploration of what it means to make decisions when you can't see all the outcomes.
